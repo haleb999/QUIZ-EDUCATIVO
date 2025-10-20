@@ -1,0 +1,82 @@
+📚 Quiz sobre Bolivia
+ Descripción
+Aplicación web interactiva de quiz educativo sobre Bolivia. Permite a los usuarios probar sus conocimientos sobre la historia, geografía y cultura boliviana a través de preguntas de opción múltiple.
+
+Mostrar imagen
+
+✨ Características
+Interfaz intuitiva y atractiva con fondo degradado de colores vibrantes
+8 preguntas sobre historia, geografía y cultura de Bolivia
+Sistema de puntuación automático
+Feedback visual inmediato al seleccionar respuestas (correcta en verde, incorrecta en rojo)
+Barra de progreso que muestra el avance del quiz
+Diseño responsive adaptable a diferentes tamaños de pantalla
+Sin animaciones lentas - carga instantánea de opciones
+🎯 Funcionalidades
+Pantalla de Inicio
+Título: "Preguntas"
+Subtítulo: "Quiz sobre Bolivia"
+Descripción motivacional
+Botón para comenzar el quiz
+Pantalla de Preguntas
+Contador de preguntas (ej: "Pregunta 1 de 8")
+Barra de progreso visual
+Pregunta clara y legible
+4 opciones de respuesta (A, B, C, D)
+Botón "Siguiente" para avanzar
+Pantalla de Resultados
+Puntuación final (ej: "6 / 8")
+Mensaje personalizado según el desempeño:
+100%: "¡Perfecto! Eres un experto en Bolivia 🇧🇴"
+70-99%: "¡Muy bien! Conoces bastante sobre Bolivia 👏"
+50-69%: "¡Bien! Pero puedes mejorar 📚"
+0-49%: "Necesitas estudiar más sobre Bolivia 📖"
+Botón para reintentar el quiz
+📋 Contenido del Quiz
+El quiz incluye preguntas sobre:
+
+Geografía: Capital, lagos, salares, departamentos
+Historia: Independencia, libertadores
+Cultura: Danzas tradicionales, símbolos patrios
+Ejemplos de Preguntas:
+¿Cuál es la capital constitucional de Bolivia?
+¿En qué año Bolivia obtuvo su independencia?
+¿Cuál es el lago navegable más alto del mundo ubicado en Bolivia?
+¿Cuál es el salar más grande del mundo ubicado en Bolivia?
+¿Qué colores tiene la bandera de Bolivia?
+🎨 Diseño Visual
+Colores Principales
+Fondo: Degradado púrpura (
+#667eea a 
+#764ba2)
+Tarjeta principal: Blanco con sombra suave
+Títulos: Negro (#333)
+Subtítulos: Rojo (
+#c0392b)
+Botones: Verde azulado (
+#16a085)
+Respuesta correcta: Verde (
+#27ae60)
+Respuesta incorrecta: Rojo (
+#e74c3c)
+Tipografía
+Fuente: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+Tamaños variables para jerarquía visual
+🛠 Tecnologías Utilizadas
+HTML5: Estructura semántica
+CSS3: Estilos modernos, flexbox, transiciones
+JavaScript vanilla: Lógica del quiz, sin dependencias externas
+📱 Responsive Design
+La aplicación se adapta perfectamente a:
+
+💻 Computadoras de escritorio
+📱 Tablets
+📱 Teléfonos móviles
+🚀 Cómo Usar
+Abrir el archivo HTML en cualquier navegador web moderno
+Leer la descripción en la pantalla de inicio
+Hacer clic en "Comenzar Quiz"
+Seleccionar una respuesta para cada pregunta
+Hacer clic en "Siguiente" para avanzar
+Ver tu puntuación final y mensaje personalizado
+Reintentar si deseas mejorar tu puntuación
